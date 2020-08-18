@@ -1,0 +1,3 @@
+<?php
+sessio_start();
+?>
